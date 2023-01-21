@@ -1,0 +1,13 @@
+
+.main{
+    width: 800px;
+    /* text-decoration: none; */
+    box-shadow: 1px 0px 10px 0px lightskyblue;
+}
+.b{
+    margin-left: 380px;
+    color: red;
+    text-decoration: none;
+    background-color: beige;
+}
+
